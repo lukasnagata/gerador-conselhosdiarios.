@@ -6,7 +6,6 @@ const conselhos = [
     "Seja gentil com todos que encontrar."
 ];
 
-console.log("Arquivo de script carregado. Array de conselhos pronto.");
 
 // Seleciona os elementos do HTML
 const conselhoTexto = document.getElementById("conselhoTexto");
